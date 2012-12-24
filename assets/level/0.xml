@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<description>
+		<levelid>0</levelid>
+	</description>
+	<background>
+		<image></image>
+	</background>
+	<tiles>
+		<tile type="0" id="0" x="0" y="0" />
+		
+	</tiles>
+	<monsters>
+		
+	</monsters>
+</level>

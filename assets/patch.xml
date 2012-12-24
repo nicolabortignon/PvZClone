@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="toto.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:176248ddf07a23257b2eb8cccf45d911$ -->
+    <SubTexture name="patch_01" x="0" y="0" width="70" height="120"/>
+    <SubTexture name="patch_02" x="70" y="0" width="70" height="120"/>
+    <SubTexture name="patch_03" x="70" y="0" width="70" height="120"/>
+    <SubTexture name="patch_04" x="140" y="0" width="70" height="120"/>
+    <SubTexture name="patch_05" x="0" y="120" width="70" height="120"/>
+    <SubTexture name="patch_06" x="0" y="120" width="70" height="120"/>
+    <SubTexture name="patch_07" x="70" y="120" width="70" height="120"/>
+    <SubTexture name="patch_08" x="140" y="120" width="70" height="120"/>
+    <SubTexture name="patch_09" x="140" y="120" width="70" height="120"/>
+    <SubTexture name="patch_10" x="0" y="240" width="70" height="120"/>
+    <SubTexture name="patch_11" x="70" y="240" width="70" height="120"/>
+    <SubTexture name="patch_12" x="70" y="240" width="70" height="120"/>
+    <SubTexture name="patch_13" x="70" y="240" width="70" height="120"/>
+</TextureAtlas>

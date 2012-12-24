@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="sprite_sheet.png">
+  <SubTexture x="0" y="0" width="80" height="110" name="mario_00000"/>
+  <SubTexture x="81" y="0" width="80" height="110" name="mario_00001"/>
+  <SubTexture x="162" y="0" width="80" height="110" name="mario_00002"/>
+  <SubTexture x="243" y="0" width="80" height="110" name="mario_00003"/>
+  <SubTexture x="324" y="0" width="80" height="110" name="mario_00004"/>
+  <SubTexture x="405" y="0" width="80" height="110" name="mario_00005"/>
+  <SubTexture x="0" y="111" width="80" height="110" name="mario_00006"/>
+  <SubTexture x="81" y="111" width="24" height="24" name="dungeon1_00000"/>
+  <SubTexture x="106" y="111" width="28" height="28" name="dungeon1_00001"/>
+  <SubTexture x="135" y="111" width="29" height="29" name="dungeon1_00002"/>
+  <SubTexture x="165" y="111" width="29" height="29" name="dungeon1_00003"/>
+  <SubTexture x="195" y="111" width="28" height="28" name="dungeon1_00004"/>
+  <SubTexture x="224" y="111" width="25" height="25" name="dungeon1_00005"/>
+  <SubTexture x="250" y="111" width="28" height="28" name="dungeon1_00006"/>
+  <SubTexture x="279" y="111" width="29" height="29" name="dungeon1_00007"/>
+  <SubTexture x="309" y="111" width="29" height="29" name="dungeon1_00008"/>
+</TextureAtlas>
